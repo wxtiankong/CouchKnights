@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.10",
+	"Category": "Samples",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "LowEntryExtendedStandardLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/846c2ad08f164f45b0335ecebf85361e"
+		}
+	],
+	"TargetPlatforms": [
+		"MacNoEditor",
+		"WindowsNoEditor"
+	],
+	"EpicSampleNameHash": "2931745876"
+}
